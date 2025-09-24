@@ -11,6 +11,7 @@ Ao clicar no botão **"Quebrar Biscoito"**, uma mensagem ou frase aleatória apa
 ## 📸 Demonstração
 Aqui estão algumas imagens do app em funcionamento:
 
-![Tela inicial do app](img/tela_inicial.png)  
-![Mensagem exibida após quebrar o biscoito](img/tela_mensagem.png)  
+![Tela incial do app](tela%20incial.png)
+![Mensagem exibida após quebrar o biscoito](tela%20mensagem.png)
+  
 
